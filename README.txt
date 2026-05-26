@@ -1,1 +1,1 @@
-Simple web scraper to check for SnagIT updated from TechSmith. Outputs JSON with version, msi and mst links, and date to parse at your convenience. Public for now.
+Simple web scraper to check for SnagIT updated from TechSmith. Outputs JSON with version, msi and mst links, and date to parse at your convenience. Public for now. Hosted with Github Actions because FREE.
